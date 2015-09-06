@@ -1,0 +1,38 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////
+//	Personal mIRC Perform.
+//	File was created on September 2012. 
+//	Last updated : Juny 2015 (Clean dead channels).
+///////////////////////////////////////////////////////////////////////////////////////////////////
+//	Reminder :
+//	Login with Q (/auth).
+//	Clear annoying motd.
+//	Sub.users.quakenet.org is my hidden host (mode +X).
+//	No bouncer used since i have dynamic IP.
+//	Use /amsg when you are looking for a match.
+
+/clear
+/auth Sub **PASSWORD**
+/mode $me +x
+/join #5on5
+/join #5on5.csgo
+/join #cadred
+/join #cs:go
+/join #CS:GO
+/join #csgo
+/join #csgo.cadred
+/join #csgo.europe
+/join #csgo.fr
+/join #csgo.fr
+/join #csgo.pracc
+/join #csgopro
+/join #ESEA
+/join #esl.go4csgo
+/join #eurostars.csgo
+/join #geekboys
+/join #pcw.csgo
+/join #pcw.csgo
+/join #praccfest
+/join #praccstars
+/join #ringer
+/join #skilled.csgo
+/join #skilled.go
